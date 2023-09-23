@@ -191,3 +191,6 @@ section .center {
 .reveal li {
   margin-top: 10px;
 }
+.hljs{
+  background:#eee;
+}
